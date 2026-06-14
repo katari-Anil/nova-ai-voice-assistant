@@ -1,0 +1,36 @@
+export const JOKES = [
+  "Why don't scientists trust atoms? Because they make up everything.",
+  "I told my computer I needed a break, and it said 'No problem — I'll go to sleep.'",
+  "Why did the robot go on a diet? It had a byte problem.",
+  "Why was the math book sad? It had too many problems.",
+  "I would tell you a joke about UDP, but you might not get it.",
+  "Why do programmers prefer dark mode? Because light attracts bugs.",
+  "Why did the AI break up with its calculator? It found someone more well-rounded.",
+  "What do you call a robot that takes the long way around? R2-Detour.",
+  "Why was the spacecraft so calm? It had great altitude.",
+  "I tried to catch some fog earlier. I mist.",
+  "How does NASA organize a party? They planet.",
+  "Why don't astronauts get hungry in space? They just had a big launch.",
+  "Why did the satellite go to therapy? It had too many trust issues with its orbit.",
+  "What's an astronaut's favorite key on a keyboard? The space bar.",
+  "Why was the robot bad at soccer? It kept debugging the ball.",
+  "I asked my neural network for a joke. It returned a 404: humor not found.",
+  "Why did the circuit break up with the battery? It just couldn't feel the spark anymore.",
+  "What do you call a sleeping AI? A dormant-ware.",
+  "Why did the drone apply for a job? It wanted to fly up the corporate ladder.",
+  "Why don't robots panic during a storm? They've got great backup systems.",
+  "I'm reading a book about anti-gravity. It's impossible to put down.",
+  "Why did the computer go to the doctor? It had a virus.",
+  "What did one wall say to the other? I'll meet you at the corner.",
+  "Why did the star go to school? To get a little brighter.",
+  "What do you call a fish with no eyes? A fsh.",
+  "Why did the scarecrow get an award? Because he was outstanding in his field.",
+  "Why can't you trust a balloon? It's full of hot air.",
+  "What do you get when you cross a snowman and a vampire? Frostbite.",
+  "Why did the bicycle fall over? It was two tired.",
+  "I'm on a seafood diet. I see food, and I eat it.",
+]
+
+export function getRandomJoke() {
+  return JOKES[Math.floor(Math.random() * JOKES.length)]
+}
