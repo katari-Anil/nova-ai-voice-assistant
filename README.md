@@ -2,16 +2,21 @@
 
 ## 🔗 Project Links
 
-🌐 **Live Website:**
-https://nova-ai-voice-assistant-ruby.vercel.app/
+🌐 **Live Website:** https://nova-ai-voice-assistant-ruby.vercel.app/
 
 ---
 
-### 🌌 Your Personal Spacecraft AI Command Center
+## 🌌 Your Personal Spacecraft AI Command Center
 
 NOVA is a futuristic AI Voice Assistant that delivers an immersive spacecraft-inspired experience directly in your browser.
 
 Built with modern web technologies, NOVA combines voice interaction, intelligent command processing, beautiful animations, and a sleek sci-fi interface to create a next-generation AI companion.
+
+---
+
+## ✨ About This Project
+
+This project was developed with the help of AI tools to speed up development, improve productivity, and reduce coding time while maintaining high quality and a clean UI/UX experience.
 
 ---
 
@@ -42,7 +47,9 @@ Built with modern web technologies, NOVA combines voice interaction, intelligent
 * Floating stars and particles
 * Glassmorphism sci-fi UI
 
-### ⚡ Built-In Commands
+---
+
+## ⚡ Built-In Commands
 
 * 🕒 Time
 * 📅 Date
@@ -52,7 +59,9 @@ Built with modern web technologies, NOVA combines voice interaction, intelligent
 * 🌐 Open Websites
 * ❓ Help System
 
-### 📱 Fully Responsive
+---
+
+## 📱 Fully Responsive
 
 * Mobile friendly
 * Tablet optimized
@@ -62,19 +71,13 @@ Built with modern web technologies, NOVA combines voice interaction, intelligent
 
 ## 🛠️ Tech Stack
 
-* ⚛️ React
-* ⚡ Vite
-* 🎨 Tailwind CSS
-* 🎭 Framer Motion
-* 🧩 Lucide React
-* 🎙️ Web Speech API
-* 🔊 Speech Synthesis API
+⚛️ React • ⚡ Vite • 🎨 Tailwind CSS • 🎭 Framer Motion • 🧩 Lucide React • 🎙️ Web Speech API • 🔊 Speech Synthesis API
 
 ---
 
 ## 📦 Installation
 
-```bash
+```bash id="k3p9lm"
 git clone https://github.com/katari-Anil/nova-ai-voice-assistant.git
 cd nova-ai-voice-assistant
 npm install
@@ -98,8 +101,7 @@ npm run dev
 
 ## 👨‍💻 Developed By
 
-# ❤️ Katari Anil
-
+❤️ **Katari Anil**
 🐙 GitHub: https://github.com/katari-Anil
 
 ---
@@ -110,6 +112,6 @@ If you like this project, give it a ⭐ on GitHub.
 
 ---
 
-### 🌌 “The future is not something we enter. The future is something we build.”
+> 🌌 “The future is not something we enter. The future is something we build.”
 
-🚀 NOVA AI Voice Assistant
+# 🚀 NOVA AI Voice Assistant
